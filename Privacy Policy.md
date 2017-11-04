@@ -1,5 +1,6 @@
 <center>Privacy Policy (ZtStudio)</center >
 ===========================
+
 ### What information do we collect? 
 no information is collected.
 
