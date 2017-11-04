@@ -1,4 +1,4 @@
-<center>Privacy Policy (ZtStudio)</center >
+Privacy Policy (ZtStudio)
 ===========================
 
 ### What information do we collect? 
@@ -21,10 +21,12 @@ We may include advertising to third party products or services on our website. T
 
 ### Microsoft
 Microsoft uses techniques to analyze and track apps from the Windows Store.
+
 https://msdn.microsoft.com/en-us/library/windows/apps/dn764944.aspx
 
 ### Date of Privacy Policy 
 If we decide to change our privacy policy, we will post those changes on this page. 
+
 This policy was last modified on 2017-11-04
 
 ### Contact
